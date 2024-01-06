@@ -1,8 +1,6 @@
 # Calculator
 **If you have a lot of information to display on your site, why don't you use my project**
 
-
-
 - Developed by elnaz eshtiaghi
 
 - Created - 2024
